@@ -3,7 +3,7 @@
 ## I`m a begineer Software Engeneer
 
 ### Обо мне:
-Я начинающий QA Engineer. Имею 10+ работы в технической сфере, развертываение различных технических инструментов, разработка документации для данных систем и их обслуживание.
+Я начинающий QA Engineer. Имею 10+ лет работы в технической сфере, развертываение различных технических инструментов, разработка документации для данных систем и их обслуживание.
 Считаю, что смогу помочь команде добиться успехов, решая сложные задачи, используя навыки решения проблем и расстановки приоритетов.
 
 ### Languages and Tools
@@ -18,5 +18,9 @@
 ![VScode](https://img.shields.io/badge/VScode-blue?logo=VScode)
 ![GitHUB](https://img.shields.io/badge/GitHUB-black?logo=GitHUB)
 
+
+### Дипломы и сертификаты
+
+# ![Software Testing from Scratch. Theory+Practice](https://drive.google.com/file/d/1CT56mP-kuD6Y_bQAT_x3h9H_vYnZZgvN/view?usp=drive_link)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZBoziev&show_icons=true&theme=radical) -->
