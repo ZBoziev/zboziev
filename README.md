@@ -2,6 +2,10 @@
 
 ## I`m a begineer Software Engeneer
 
+### Обо мне:
+Я начинающий QA Engineer. Имею 10+ работы в технической сфере, развертываение различных технических инструментов, разработка документации для данных систем и их обслуживание.
+Считаю, что смогу помочь команде добиться успехов, решая сложные задачи, используя навыки решения проблем и расстановки приоритетов.
+
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-grey?logo=Postman)
 ![MYSQL](https://img.shields.io/badge/MYSQL-green?logo=mysql)
