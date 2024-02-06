@@ -4,7 +4,7 @@
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-grey?logo=Postman)
-![SQL](https://img.shields.io/badge/SQL-green?logo=mysql)
+![MYSQL](https://img.shields.io/badge/MYSQL-green?logo=mysql)
 ![Jira](https://img.shields.io/badge/Jira-blue?logo=Jira)
 
 
