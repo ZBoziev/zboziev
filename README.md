@@ -21,6 +21,6 @@
 
 ### Дипломы и сертификаты
 
-# Software Testing from Scratch. Theory+Practice (https://drive.google.com/file/d/1CT56mP-kuD6Y_bQAT_x3h9H_vYnZZgvN/view?usp=drive_link)
+#### Software Testing from Scratch. Theory+Practice (https://drive.google.com/file/d/1CT56mP-kuD6Y_bQAT_x3h9H_vYnZZgvN/view?usp=drive_link)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZBoziev&show_icons=true&theme=radical) -->
