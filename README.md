@@ -24,6 +24,5 @@
 #### <a href="https://drive.google.com/file/d/1CT56mP-kuD6Y_bQAT_x3h9H_vYnZZgvN/view?usp=drive_link">Software Testing from Scratch. Theory+Practice</a>
 #### <a href="https://drive.google.com/file/d/1auS_ENRPnSlbUfHhbBozX-FDWdJ4BrIZ/view?usp=drive_link">The universe of testing, or How to become a tester</a>
 #### <a href="https://drive.google.com/file/d/1ou-uVgEvUVmJQxhtRT2a_HmHjUfXXSLC/view?usp=drive_link">Software Testing: Postman for API testing</a>
-#### <a href="https://drive.google.com/file/d/1ou-uVgEvUVmJQxhtRT2a_HmHjUfXXSLC/view?usp=drive_link">Software Testing: Postman for API testing</a>
 #### <a href="https://drive.google.com/file/d/1w97nivmR7I--oNKkK_TLNF7YKyHXiOEU/view?usp=drive_link">Администрирование Linux</a>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZBoziev&show_icons=true&theme=radical) -->
